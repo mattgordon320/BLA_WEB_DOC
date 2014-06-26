@@ -11,11 +11,16 @@ Early beta test of SketchUp Office Standards Documentation as built as interacti
 
 This site is utilizes several open-source components relased under MIT and Creative Commons. Development is limited to in-house and is not ready for testing.
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ## Credits
 
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		skelJS (skelJS.org)
+		*html5.net (@n33co)
+		*jQuery (jquery.com)
+		*html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		*CSS3 Pie (css3pie.com)
+		*skelJS (skelJS.org)
 
 Copyright © 2014 Bassenian | Lagoni Architects
