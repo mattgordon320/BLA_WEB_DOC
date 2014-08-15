@@ -1,7 +1,7 @@
 # Bassenian Lagoni Web Documentation
 ====================================
 
-Early beta test of SketchUp Office Standards Documentation as built as interactive HTML5. This documentation will supplant the Standards PDF for usability.
+Early beta test of SketchUp Office Standards Documentation as built as interactive HTML5. This documentation will supplant the Standards PDF for usability. The intent at this point is to build a simple, clean and modular page with an easy to navigate UI, and hopefully, modular sections that can be updated simply and separately.
 
 ## Developer
 
